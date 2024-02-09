@@ -23,7 +23,7 @@ In order to access the full functionality of Finance Assistant, users will need 
 * Enter OpenAI API key in OpenAI Key Field
 * Enter AlphaVantage API key or "demo" in AlphaVantage Field
 
-## Authors
+## Author
 
 Prabhat Tiwari 
 
